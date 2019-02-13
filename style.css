@@ -14,3 +14,30 @@ img {
   float: left;
   margin: 15px;
 }
+
+.right {
+  width: 300px;
+  float: right;
+  padding: 5px;
+}
+
+.left {
+  width: 300px;
+  float: left;
+  padding: 5px;
+}
+
+.middle {
+  margin-left: 450px;
+  margin-right: 300px;
+  width: 300px;
+  padding: 5px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.navbar {
+  column-count: 4;
+}
