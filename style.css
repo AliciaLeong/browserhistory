@@ -18,26 +18,27 @@ img {
 .right {
   width: 300px;
   float: right;
-  padding: 5px;
+  padding: 1cm;
 }
 
 .left {
   width: 300px;
   float: left;
-  padding: 5px;
+  padding: 1cm;
 }
 
 .middle {
-  margin-left: 450px;
+  margin-left: 300px;
   margin-right: 300px;
-  width: 300px;
-  padding: 5px;
+  padding: 1cm;
 }
 
-ul {
+#navbar ul {
   list-style-type: none;
 }
 
-.navbar {
-  column-count: 4;
+#navbar li{
+  display: inline;
+  margin-left: 75px;
+  margin-right: 75px;
 }
