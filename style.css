@@ -1,44 +1,6 @@
-h1,h2 {
-  font-family: 'Oswald', sans-serif;
-  color: darkblue;
-}
-
 body {
-  font-family: 'Open Sans', sans-serif;
-  color: darkblue;
-  margin: 10px 50px 10px 50px;
-  background-color: Ivory;
+  margin-top: 50px;
 }
-
-img {
-  float: left;
-  margin: 15px;
-}
-
-.right {
-  width: 300px;
-  float: right;
-  padding: 1cm;
-}
-
-.left {
-  width: 300px;
-  float: left;
-  padding: 1cm;
-}
-
-.middle {
-  margin-left: 300px;
-  margin-right: 300px;
-  padding: 1cm;
-}
-
-#navbar ul {
-  list-style-type: none;
-}
-
-#navbar li{
-  display: inline;
-  margin-left: 75px;
-  margin-right: 75px;
-}
+ h1 {
+   color: #0000ff;
+ }
